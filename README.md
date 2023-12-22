@@ -22,7 +22,10 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 
 ```
 ## Output:
-![image](https://github.com/Bosevennila/EIGENVALUES-AND-EIGENVECTORS/assets/144870486/b0f5aee3-b7fb-4abe-82a8-806382eaa614)
+
+
+![image](https://github.com/Bosevennila/EIGENVALUES-AND-EIGENVECTORS/assets/144870486/737d8dad-9291-4929-81fb-efa28b160fce)
+
 
 
 ## Result:
